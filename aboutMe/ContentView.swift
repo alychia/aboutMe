@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var funFactText = "tap to reveal facts"
+    @State var funFactText = "tap to reveal some facts"
     var body: some View {
         ZStack {
             
